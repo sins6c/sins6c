@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sudharsan.t18@gmail.com**
 
-<img src="./assets/image.gif"/>
+<img src="./dino.gif"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
