@@ -16,7 +16,7 @@
 <a href="https://codepen.io/sins6c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sins6c" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/28220316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="28220316" height="30" width="40" /></a>
 <a href="https://instagram.com/_olo_sins_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_olo_sins_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sudharsan6c" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sudharsan6c" height="30" width="40" /></a>
+</a>
 <a href="https://www.hackerrank.com/sudharsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sudharsan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sudharsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sudharsan" height="30" width="40" /></a>
 </p>
